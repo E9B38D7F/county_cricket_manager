@@ -24,11 +24,13 @@ So, as a manager, you can't affect the skill of your players, and you also can't
 
 **To play**
 
-* Download the program files from [Google Drive](https://drive.google.com/file/d/1iEPInZ4yNjG3dCwLUWfaDiPYC-_4dU7Z/view?usp=sharing) and put them in the same directory as this notebook (if using Colab, upload them into the files folder in the sidebar).
+There are two options: either play in [Colab](https://colab.research.google.com/drive/1MN4nKd9p3zce5DCt5dJpPVCoMpbHjEaw?usp=sharing) or download all the files from this GitHub and play offline. 
+
+* Download the program files from [Google Drive](https://drive.google.com/file/d/1iEPInZ4yNjG3dCwLUWfaDiPYC-_4dU7Z/view?usp=sharing). If playing in Colab, upload them into the files folder in the sidebar, if playing offline put all of the files in the same directory as play_game.ipynb. 
 * If playing on Colab run the cell below, otherwise open up play_game.ipynb and run the first cell.
 * Type in the name of the team you want to play as.
 * When offered a choice, put in just the letter of the option you want. If you want to submit multiple options, put in all those options concatenated, e.g., if you want to select players a-f, type in "abcdef". 
 * To help making decisions, at any point you can type in "history" which pulls up records of your players' individual performances, or (less informatively) "table" which pulls up the league table. 
-* After the game, you can run the cells in the following section to show the league table, the true skill levels of each player, and a summary of the best batters in the league.
+* After the game, you can run the cells in the final section to show information about the season just played.
 
 Good luck - you'll probably need some!
