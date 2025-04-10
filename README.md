@@ -27,7 +27,7 @@ So, as a manager, you can't affect the skill of your players, and you also can't
 There are two options: either play in [Colab](https://colab.research.google.com/drive/1MN4nKd9p3zce5DCt5dJpPVCoMpbHjEaw?usp=sharing) or download all the files from this GitHub and play offline. 
 
 * Download the program files from [Google Drive](https://drive.google.com/file/d/1iEPInZ4yNjG3dCwLUWfaDiPYC-_4dU7Z/view?usp=sharing). If playing in Colab, upload them into the files folder in the sidebar, if playing offline put all of the files in the same directory as play_game.ipynb. 
-* If playing on Colab run the cell below, otherwise open up play_game.ipynb and run the first cell.
+* If playing in Colab run the first cell, otherwise open up play_game.ipynb and run the first cell.
 * Type in the name of the team you want to play as.
 * When offered a choice, put in just the letter of the option you want. If you want to submit multiple options, put in all those options concatenated, e.g., if you want to select players a-f, type in "abcdef". 
 * To help making decisions, at any point you can type in "history" which pulls up records of your players' individual performances, or (less informatively) "table" which pulls up the league table. 
